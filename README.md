@@ -1,5 +1,7 @@
+<a href="https://discord.gg/HjJCwm5">
+        <img src="https://img.shields.io/docker/pulls/seanghay/android-ci.svg"
+            alt="Pulls"></a>      
 ## Docker Image for Android CI
-
 You can use this image for building your Android app within your CI.
 
 ```sh
