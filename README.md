@@ -1,4 +1,4 @@
-<a href="https://discord.gg/HjJCwm5">
+<a href="https://hub.docker.com/repository/docker/seanghay/android-ci">
         <img src="https://img.shields.io/docker/pulls/seanghay/android-ci.svg"
             alt="Pulls"></a>    
             
