@@ -1,13 +1,15 @@
-<a href="https://hub.docker.com/repository/docker/seanghay/android-ci">
-        <img src="https://img.shields.io/docker/pulls/seanghay/android-ci.svg"
-            alt="Pulls"></a>    
-            
 ## Docker Image for Android CI
 You can use this image for building your Android app within your CI.
+
+<a href="https://hub.docker.com/repository/docker/seanghay/android-ci">
+        <img src="https://img.shields.io/docker/pulls/seanghay/android-ci.svg"
+            alt="Pulls"></a> 
 
 ```sh
 docker pull seanghay/android-ci:latest
 ```
+
+-----
 
 ## Usage in GitLab CI
 
